@@ -299,7 +299,7 @@ def build():
          "First three-way talks in Shenzhen as APEC gathers.",
          pic_flags),
         ("GULF CRISIS", "U.S. STRIKES IRAN",
-         "Missile site hit on Qeshm Island; tankers struck in Hormuz.",
+         "Qeshm site hit; tankers struck in Hormuz.",
          pic_tanker),
     ]
     for (x0, x1), (kick, head, sub, pic) in zip(mid_cards, mid):
